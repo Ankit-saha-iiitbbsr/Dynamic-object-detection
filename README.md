@@ -8,9 +8,12 @@ Problem Statement:
 
 
 
-https://github.com/Ankit-saha-iiitbbsr/Dynamic-object-detection/assets/120235923/f09c823c-6058-4c5d-bbd6-7b04db677c5e
 
 
+
+
+
+https://github.com/Ankit-saha-iiitbbsr/Dynamic-object-detection/assets/120235923/81b27ae1-a264-4d56-bc00-da9091b7ab65
 
 
 
