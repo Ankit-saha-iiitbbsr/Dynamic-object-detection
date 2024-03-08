@@ -7,14 +7,6 @@ Problem Statement:
 ## Input video
 
 
-Uploading Hackathon.mp4…
-
-
-
-Uploading Hackathon.mp4…
-
-
-
 
 
 ## Output video
