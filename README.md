@@ -8,6 +8,14 @@ Problem Statement:
 
 
 
+https://github.com/Ankit-saha-iiitbbsr/Dynamic-object-detection/assets/120235923/f09c823c-6058-4c5d-bbd6-7b04db677c5e
+
+
+
+
+
+
+
 
 ## Output video
 https://github.com/Ankit-saha-iiitbbsr/Dynamic-object-detection/assets/120235923/950bbd8b-ef57-4804-84f3-692d3b9c25aa
